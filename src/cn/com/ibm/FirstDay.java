@@ -7,6 +7,8 @@ public class FirstDay {
 		System.out.println("java");
 
 //
+		
+		//000
 
 	}
 
